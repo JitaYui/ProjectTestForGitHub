@@ -8,7 +8,7 @@ public class Client {
         //TODO: layout
         JFrame jFrame = new JFrame();
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        JLabel label = new JLabel("Hello World");
+        JLabel label = new JLabel("再一次");
         jFrame.getContentPane().add(label);
         jFrame.pack();
         jFrame.setVisible(true);
